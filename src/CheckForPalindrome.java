@@ -24,7 +24,6 @@ public class CheckForPalindrome {
                 break;
             }
         }
-        System.out.println(Arrays.toString(charArray));
         return flag == 1;
     }
 }
